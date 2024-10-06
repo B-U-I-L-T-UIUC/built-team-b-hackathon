@@ -30,8 +30,9 @@ Backend: Flask
 Data Handling: Axios for API calls
 Future Enhancements
 
+Expand the application to include other states.
+Add additional parameters to give farmers even more decision-making power.
+
 # View Website
 link: https://built-team-b-hackathon.vercel.app/
 
-Expand the application to include other states.
-Add additional parameters to give farmers even more decision-making power.
