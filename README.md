@@ -26,8 +26,12 @@ Technologies Used
 
 Frontend: React
 Backend: Flask
+
 Data Handling: Axios for API calls
 Future Enhancements
+
+# View Website
+link: https://built-team-b-hackathon.vercel.app/
 
 Expand the application to include other states.
 Add additional parameters to give farmers even more decision-making power.
